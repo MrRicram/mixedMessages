@@ -1,5 +1,5 @@
 # Coding Project Generator
-> Generates a random coding project using a random programming language.
+> Generates a random coding project.
 
 ## Table of contents
 * [General info](#general-info)
