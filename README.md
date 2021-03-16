@@ -29,4 +29,4 @@ Project is: _finished_
 
 
 ## Contact
-Created by [@Ricram](https://https://github.com/MrRicram/) - feel free to contact me via email at rf.ramos95@gmail.com!
+Created by [@Ricram](https://github.com/MrRicram/) - feel free to contact me via email at rf.ramos95@gmail.com!
