@@ -16,7 +16,7 @@ This project was developed as a solution to the Mixed Messages project for the C
 * JavaScript (ES6)
 
 ## Setup
-1. You'll need Node.js installed on your computer or virtual environment to run this program. [Node.js download] (https://nodejs.org/en/)
+1. You'll need Node.js installed on your computer or virtual environment to run this program. [Node.js download](https://nodejs.org/en/)
 2. You can clone or simply download my repository.
 3. Make sure you are in the correct directory.
 4. Type `node filename` in the Terminal to run the program!
